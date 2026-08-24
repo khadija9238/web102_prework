@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/16d2b654-969b-49f7-9fbf-0efbbbe48b60
+
 # WEB102 Prework - Sea Monster Crowdfunding
 
 Submitted by: KADIDIATOU SOW
@@ -7,6 +11,18 @@ Submitted by: KADIDIATOU SOW
 Time spent: **X** hours spent in total
 
 ## Required Features
+
+
+https://github.com/user-attachments/assets/45247ca2-8ee9-470f-b086-c408f235a121
+
+
+
+https://github.com/user-attachments/assets/76b19dac-16ae-494c-ace1-5603b35855cb
+
+
+
+https://github.com/user-attachments/assets/974ca966-6407-42b7-b9a6-7d0f9ae677de
+
 
 The following **required** functionality is completed:
 
