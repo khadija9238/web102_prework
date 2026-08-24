@@ -1,5 +1,15 @@
 
 
+https://github.com/user-attachments/assets/693a66a1-7039-40df-8ba3-ef04bc899756
+
+
+
+
+
+
+
+
+
 
 
 # WEB102 Prework - Sea Monster Crowdfunding
@@ -18,7 +28,6 @@ Time spent: **X** hours spent in total
 
 
 
-https://github.com/user-attachments/assets/974ca966-6407-42b7-b9a6-7d0f9ae677de
 
 
 The following **required** functionality is completed:
